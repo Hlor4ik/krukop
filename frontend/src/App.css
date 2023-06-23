@@ -1,0 +1,117 @@
+.SignUp {
+  font-family: sans-serif;
+  
+}
+.tologin{
+  position:relative;
+left: 80%;
+top:-50px
+}
+.Btnlink{
+  background-color: blue;
+  width: 150px;
+  color: white;
+  border-radius: 10px;
+}
+.tochange{
+  position: absolute;
+  bottom: 5%;
+  margin-left: 40%;
+}
+.Btnlinkpass{
+  background-color: blue;
+  width: 150px;
+  height: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.Registration {
+  position: relative;
+  top:10%;
+  width: 50%;
+  height: 85%;
+  font-family: sans-serif;
+  margin-left: 30%;
+  background-color: white;
+  border-radius:10px  ;
+  border-color: black;
+  border-style:solid
+}
+.Registration1 {
+  position: relative;
+  top:30%;
+  width: 50%;
+  height:20%;
+  font-family: sans-serif;
+  margin-left: 30%;
+  background-color: white;
+  border-radius:10px  ;
+  border-color: black;
+  border-style:solid
+}
+.Registration2{
+  position: relative;
+  top:30%;
+  width: 50%;
+  height:29%;
+  font-family: sans-serif;
+  margin-left: 30%;
+  background-color: white;
+  border-radius:10px  ;
+  border-color: black;
+  border-style:solid
+}
+.form{
+  margin-left: 20%;
+}
+.btn{
+  width: 90%;
+  height: 40px;
+  position: absolute;
+  bottom: 5%;
+  left: 0;
+  color: white;
+  border-radius: 10px;
+  background-color: blue;
+  margin-left: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn1{
+  width: 30%;
+  height: 50px;
+  position: absolute;
+  bottom: 5%;
+  margin-left: 30%;
+  color: white;
+  border-radius: 10px;
+  background-color: blue;
+  margin-left: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main{
+  background-image: url("https://sibdepo.ru/wp-content/uploads/2021/05/EOSR9970.1.-scaled.jpg");
+  width: 100%;
+  height: 1000px;
+  background-size: cover;
+}
+header{
+  width: 100%;
+  height: 180px;
+  background-color:grey;
+}
+footer{
+  width: 100%;
+  height:110px;
+  background-color:grey;
+}
+.headimage{
+  background-image: url("https://www.equipnet.ru/netcat_files/83/101/11_5.jpg");
+  width: 220px;
+  height: 190px;
+  margin-left: 0;
+  background-size: cover;
+}
