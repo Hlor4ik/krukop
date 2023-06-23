@@ -7,7 +7,7 @@ Folder `backend` responsible for executing http requests from the client and sto
 
 Folder `frontend` responsible for the appearance for the client.
 # Installation
-1.Create database in MySQL and migrate cabinet.sql file.
+1.Create database in MySQL and migrate `cabinet.sql` file.
 
 2.Clone the repository to your local folder using the git clone command.
 
