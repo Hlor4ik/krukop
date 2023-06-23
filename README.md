@@ -15,6 +15,6 @@ Folder `frontend` responsible for the appearance for the client.
 
 4.Open powershell in terminal.
 
-5.Install all the necessary dependencies in each of the folders by entering the npm install command.
+5.Install all the necessary dependencies in each of the folders by entering the `npm install` command.
 
-6.Start the project by typing the npm start command in each folder.
+6.Start the project by typing the `npm start` command in each folder.
